@@ -29,7 +29,7 @@ body:after {
   border-radius: 100%;
   background: transparent;
   display: block;
-  
+
   box-shadow: 0 0 150px 100px rgba(255, 255, 255, .6),
               200px 0 200px 150px rgba(255, 255, 255, .6),
               -250px 0 300px 150px rgba(255, 255, 255, .6),
